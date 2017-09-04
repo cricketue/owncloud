@@ -11,7 +11,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		libjpeg-dev \
 		libldap2-dev \
 		libmcrypt-dev \
-                php7-ldap \
 		libmemcached-dev \
 		libpng12-dev \
 		libpq-dev \
